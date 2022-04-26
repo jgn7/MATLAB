@@ -1,2 +1,2 @@
 # MATLAB
-MATLAB projects from school.
+MATLAB projects from University of Washington.
